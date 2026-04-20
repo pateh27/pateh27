@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Muhammad Al-Fatih Ulima Robby</h1>
-<h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h3>
+<h1 align="center">👋 Hi there, I'm Muhammad Al-Fatih Ulima Robby</h1>  
+<h4 align="center">💻 Web Developer | 📱Mobile Dev | 🚀 Tech Enthusiast</h4>
 
 ---
 
@@ -49,10 +49,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=pateh27&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=pateh27&theme=tokyonight&hide_border=true" />
-  <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pateh27&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
